@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Quote.css"; // Import the CSS file for styling
+import "./Quote.css";
 
 const QuoteGenerator = () => {
   const quotes = [

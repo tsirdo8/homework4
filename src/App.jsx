@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Counter from "./components/counter/Counter";
-import TodoApp from "./components/Todo/Todo";
+import TodoApp from "./components/todo/Todo";
 import Card from "./components/card/Card";
 import QuoteGenerator from "./components/quote/Quote";
 
